@@ -1,6 +1,6 @@
 This is added by Master 
 
-<<<<<<< HEAD
+
 
 b1 added new changes here
 
