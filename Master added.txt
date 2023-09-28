@@ -1,5 +1,6 @@
 This is added by Master 
 
+<<<<<<< HEAD
 
 b1 added new changes here
 
@@ -11,3 +12,4 @@ B1 added new code here
 5
 6
 7
+
